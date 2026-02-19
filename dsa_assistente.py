@@ -36,7 +36,6 @@ with st.sidebar:
 
     # Define o título da barra lateral
     st.title("🤖 DSA AI Coder")
-    oi
 
     # Mostra um texto explicativo sobre o assistente
     st.markdown(
